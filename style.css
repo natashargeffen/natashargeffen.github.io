@@ -6,3 +6,10 @@ h1{
   font-weight: bold;
   text-align: center;
 }
+
+.nav{
+  text-align: center;
+  font-family: "Lucida Sans Typewriter", Courier New, monospace;
+  text-decoration: none;
+  color: black;
+}
