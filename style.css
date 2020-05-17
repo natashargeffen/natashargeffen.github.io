@@ -13,11 +13,9 @@ h1{
 }
 
 .project-container{
-  position: relative;
   display: block;
   margin: auto;
   padding: 10px;
-  background-color: salmon;
 }
 
 .project-container:hover .cover-image {
