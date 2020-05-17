@@ -9,6 +9,7 @@ h1{
 
 .cover-image{
   margin: auto;
+  display: block;
 }
 
 .nav{
