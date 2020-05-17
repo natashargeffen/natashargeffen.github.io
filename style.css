@@ -8,6 +8,8 @@ h1{
 }
 
 .cover-image{
+  margin-top: 5px;
+  margin-bottom:5px;
   margin: auto;
   display: block;
 }
