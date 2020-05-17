@@ -12,34 +12,6 @@ h1{
   display: block;
 }
 
-.project-container{
-  display: block;
-  margin: auto;
-  padding: 10px;
-}
-
-.project-container:hover .cover-image {
-  opacity: 0.3;
-}
-
-.project-container:holver .project-middle{
-  opacity: 1;  
-}
-
-.project-middle{
-  opacity: 0;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-  text-align: center;
-}
-
-project-text{
-  font-family: "Lucida Sans Typewriter", Courier New, monospace;
-  color: white;
-
 .nav{
   text-align: center;
   font-family: "Lucida Sans Typewriter", Courier New, monospace;
