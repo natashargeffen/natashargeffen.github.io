@@ -7,6 +7,10 @@ h1{
   text-align: center;
 }
 
+.cover-image{
+  margin: auto;
+}
+
 .nav{
   text-align: center;
   font-family: "Lucida Sans Typewriter", Courier New, monospace;
@@ -22,3 +26,4 @@ h1{
 #hover:hover{
   color: salmon;
 }
+
