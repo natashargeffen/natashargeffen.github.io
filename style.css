@@ -15,7 +15,8 @@ h1{
 }
 
 #active{
-  background-color: salmon;
+  border-bottom: 1px solid salmon;
+  bottom: 3px;
 }
 
 #hover:hover{
