@@ -10,14 +10,14 @@ h1{
   color: white;
   margin: .5in auto;
   position: relative;
-  max-width: 20%
+  max-width: 30%
 }
 
 .project-container:hover{
   color: salmon;
   margin: .5in auto;
   position: relative;
-  max-width:20%
+  max-width:30%
 }
 
 .project-text{
