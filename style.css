@@ -15,11 +15,11 @@ h1{
 }
 
 .project-container:hover{
-  color: black;
+  color: salmon;
   margin: .5in auto;
   position: relative;
   max-width:30%;
-  opacity: .3;
+  opacity: .5;
 }
 
 .project-text{
@@ -40,6 +40,10 @@ h1{
   text-align: center;
   text-decoration: none;
   color: black;
+}
+
+#active {
+  color:salmon;
 }
 
 #hover:hover{
