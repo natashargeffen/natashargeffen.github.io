@@ -10,14 +10,16 @@ h1{
   color: white;
   margin: .5in auto;
   position: relative;
-  max-width: 30%
+  max-width: 30%;
+  opacity: 1;
 }
 
 .project-container:hover{
   color: salmon;
   margin: .5in auto;
   position: relative;
-  max-width:30%
+  max-width:30%;
+  opacity: .3;
 }
 
 .project-text{
@@ -32,24 +34,12 @@ h1{
 .cover-image{
   margin: auto;
   display: block;
-  opacity: 1;
-}
-
-.cover-image:hover{
-  margin: auto;
-  display: block;
-  opacity:.3;
 }
 
 .nav{
   text-align: center;
   text-decoration: none;
   color: black;
-}
-
-#active{
-  border-bottom: 1px solid salmon;
-  bottom: 3px;
 }
 
 #hover:hover{
