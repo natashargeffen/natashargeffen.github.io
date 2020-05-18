@@ -14,6 +14,8 @@ h1{
 
 .project-container:hover{
   color: salmon;
+  margin: .5in;
+  position: relative;
 }
 
 .project-text{
