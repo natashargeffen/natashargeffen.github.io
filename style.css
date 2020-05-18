@@ -6,6 +6,13 @@ h1{
   font-weight: bold;
   text-align: center;
 }
+
+footer {
+  font-size: 13px;
+  color: salmon;
+  margin-top:1in;
+}
+  
 .project-container{
   color: white;
   margin: .5in auto;
