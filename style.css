@@ -78,7 +78,9 @@ h1{
 
 .project-page-image{
   display: block;
-  margin: auto 1in;
+  margin: auto;
+  margin-top: 80px;
+  margin-bottom: 20px;
 }
   
 .project-page-text{
