@@ -12,7 +12,7 @@ h1{
   position: relative;
 }
 
-project-container:hover{
+.project-container:hover{
   color: salmon;
 }
 
