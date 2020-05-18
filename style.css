@@ -2,17 +2,40 @@ body {
   font-family: "Futura", Helvetica, sans-serif;
 }
 
-h1{
-  font-weight: bold;
-  text-align: center;
-}
-
 footer {
   font-size: 13px;
   color: salmon;
   margin-top:1in;
 }
-  
+
+h1{
+  font-weight: bold;
+  text-align: center;
+}
+
+.about-container{
+  max-width: 50%;
+  margin: auto;
+  display: block;
+  margin-top: 1in;
+}
+
+.about-image{
+  float: left;
+  margin-right: 50px;
+}
+
+.cover-image{
+  margin: auto;
+  display: block;
+}
+
+.nav{
+  text-align: center;
+  text-decoration: none;
+  color: black;
+}
+
 .project-container{
   color: white;
   margin: .5in auto;
@@ -35,18 +58,6 @@ footer {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-}
-
-
-.cover-image{
-  margin: auto;
-  display: block;
-}
-
-.nav{
-  text-align: center;
-  text-decoration: none;
-  color: black;
 }
 
 #active {
