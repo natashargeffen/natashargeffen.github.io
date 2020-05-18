@@ -15,7 +15,7 @@ h1{
 }
 
 .project-container:hover{
-  color: salmon;
+  color: black;
   margin: .5in auto;
   position: relative;
   max-width:30%;
