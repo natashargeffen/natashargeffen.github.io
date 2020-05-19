@@ -19,7 +19,7 @@ h1{
 
 h1:hover{
   color: salmon;
-  text-decoration: none;
+ 
 }
 
 h3{
@@ -84,9 +84,6 @@ h3{
 
 .project-container:hover{
   color: salmon;
-  margin: .5in auto;
-  position: relative;
-  max-width:30%;
   opacity: .5;
 }
 
