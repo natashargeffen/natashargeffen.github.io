@@ -10,18 +10,6 @@ footer {
   clear: left;
 }
 
-h1{
-  font-weight: bold;
-  text-align: center;
-  color: black;
-  text-decoration: none;
-}
-
-h1:hover{
-  color: salmon;
- 
-}
-
 h3{
   width: 800px;
   margin: auto;
@@ -65,6 +53,17 @@ h3{
 
 .fa:hover {
   opacity: 0.5;
+  color: salmon;
+}
+
+.name-link{
+ font-weight: bold;
+ text-align: center;
+ color: black;
+ text-decoration: none; 
+}
+
+.name-link:hover{
   color: salmon;
 }
 
