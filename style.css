@@ -101,8 +101,6 @@ h3{
   width: 800px;
   display: block;
   margin: auto;
-  background: white;
-  padding: 10px;
 }
 
 .project-text{
@@ -111,6 +109,8 @@ h3{
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+  background: white;
+  padding: 10px;
 }
 
 #active {
