@@ -86,7 +86,7 @@ h3{
 
 .project-container:hover{
   color: salmon;
-  background-color: white;
+  background: white;
   opacity: .5;
 }
 
