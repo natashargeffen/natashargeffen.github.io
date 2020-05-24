@@ -36,6 +36,8 @@ h3{
 .cover-image{
   margin: auto;
   display: block;
+  height: 350px;
+  width: 350px;
 }
 
 .fa{
