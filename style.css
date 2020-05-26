@@ -17,6 +17,14 @@ h3{
   margin-top: 50px;
 }
 
+h4{
+  width: 800px;
+  margin: auto;
+  display: block;
+  margin-top: 30px;
+  color: salmon;  
+}
+
 .about-container{
   max-width: 50%;
   margin: auto;
@@ -119,5 +127,9 @@ h3{
 
 #hover:hover{
   color: salmon;
+}
+
+#illustrations{
+  width: max-width: 70%;
 }
 
