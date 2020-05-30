@@ -48,6 +48,7 @@ h4{
   height: 350px;
   width: 350px;
   opacity: .7;
+  object-fit:cover;
 }
 
 .fa{
