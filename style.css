@@ -94,7 +94,7 @@ h4{
   color: black;
   margin: .5in auto;
   position: relative;
-/*   max-width: 30%; */
+  max-width: 30%;
   opacity: 1;
 }
 
@@ -149,7 +149,7 @@ h4{
 
 /* image grid */
 
-.column {
+/* .column {
   float: left;
   width: 50%;
   padding: 10px;
@@ -159,6 +159,18 @@ h4{
   margin-top: 12px;
 }
 
+.column-right{
+      float: left;
+    margin-right: 400px;
+    margin-bottom: 20px;
+}
+
+.column-left{
+    float: right;
+    margin-left: 400px;
+    margin-bottom: 20px;
+}
+
 .row:after {
   content: "";
   display: table;
@@ -166,3 +178,4 @@ h4{
 }
 
 
+ */
