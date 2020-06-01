@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
   font-family: "Futura", Helvetica, sans-serif;
 }
@@ -127,9 +131,6 @@ h4{
   color: salmon;
 }
 
-#column-left{
-float: left;  
-}
 
 #drop-shadow {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);  
@@ -144,8 +145,23 @@ float: left;
   max-width: 50%;
 }
 
-#index-column{
-  margin: auto;
-  display: block; 
+
+/* image grid */
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
 }
+
+.column img {
+  margin-top: 12px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 
