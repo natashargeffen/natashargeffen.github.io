@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <a class="name-link" href="index.html"><h1>Natasha Geffen</h1></a>
+  <h2 class="nav"><a class="nav" id="hover" href="index.html">Projects</a> 
+    / <a class="nav" id="hover" href="about.html">About</a></h2>
+
+<h3> Aternity Website and LinkedIn Banners </h3>
+<br> <br>
+  <p Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  </p>
+  
+  <h4>Website Banners</h4>
+  <img class="project-page-image" id="drop-shadow" src="/images/cems-website-banners.gif">
+ <h4>Event Calander Graphics</h4> 
+  <img class="project-page-image" id="drop-shadow" src="/images/cems-events.gif">
+  <h4>Postcards</h4> 
+  <img class="project-page-image" id="drop-shadow" src="/images/sticker-postcard.png">
+  <img class="project-page-image" id="illustrations" src="/images/vote-postcard.png">
+  
+  <h4>Iconography & Illustrations</h4> 
+  <img class="project-page-image" id="illustrations" src="/images/cems-iconography.png">
+  
+</body>
+<footer> Website by Natasha Geffen </footer>
+</html>
